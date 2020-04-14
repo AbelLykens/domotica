@@ -1,0 +1,2 @@
+# domotica
+Sample domotica configs
